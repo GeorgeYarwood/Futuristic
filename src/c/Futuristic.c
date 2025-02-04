@@ -68,7 +68,12 @@ static void update_proc(Layer* layer, GContext* ctx)
 
 	int drawnY = origin.y;
 
-	for (int h = 0; h < 12; h++)
+	if (hr == 0)
+	{
+		hr = 12;
+	}
+
+	for (int h = 1; h <= 12; h++)
 	{
 		if(h <= hr)
 		{
