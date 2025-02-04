@@ -1,0 +1,30 @@
+{
+    "targetPlatforms": [
+        "aplite", 
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "displayName": "Futuristic", 
+    "name": "Futuristic", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "George Yarwood", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "Futuristic", 
+    "shortName": "Futuristic", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": []
+    }, 
+    "uuid": "4192b25f-5477-4176-a647-ae2b9c40d69f"
+}
